@@ -1,8 +1,3 @@
----
-title: BoostyLabs
-
----
-
 # BoostyLabs
 **Team Location:** Central Europe, Latin America, Ukraine (Western or Central)
 **Website:** https://boostylabs.com/ 

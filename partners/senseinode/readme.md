@@ -1,8 +1,3 @@
----
-title: SenseiNode
-
----
-
 # SenseiNode
 **Team Location:** Argentina
 **Website:** https://www.senseinode.com/ 

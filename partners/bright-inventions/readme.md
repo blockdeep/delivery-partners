@@ -1,8 +1,3 @@
----
-title: Bright Inventions
-
----
-
 # Bright Inventions
 **Team Location:** Poland
 **Website:** https://brightinventions.pl/ 

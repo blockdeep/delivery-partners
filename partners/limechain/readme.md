@@ -1,8 +1,3 @@
----
-title: LimeChain
-
----
-
 # LimeChain
 **Team Location:** Bulgaria
 **Website:** https://limechain.tech/ 

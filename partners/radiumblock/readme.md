@@ -1,8 +1,3 @@
----
-title: RadiumBlock
-
----
-
 # RadiumBlock
 **Team Location:** USA
 **Website:** https://radiumblock.com/ 
