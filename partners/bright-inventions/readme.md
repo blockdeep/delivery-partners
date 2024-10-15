@@ -1,5 +1,5 @@
 # Bright Inventions
-**Team Location:** Poland
+**Team Location:** Poland <br />
 **Website:** https://brightinventions.pl/ 
 
 **Overview:**

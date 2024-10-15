@@ -1,5 +1,5 @@
 # LimeChain
-**Team Location:** Bulgaria
+**Team Location:** Bulgaria <br />
 **Website:** https://limechain.tech/ 
 
 **Summary:** 
