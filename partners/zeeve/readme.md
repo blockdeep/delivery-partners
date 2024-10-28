@@ -2,7 +2,7 @@
 **Team Location:** US, India, Europe <br />
 **Website:** https://www.zeeve.io/ 
 
-**Overview:**
+**Summary:**
 Zeeve is a leading Rollup as a Service and blockchain infrastructure automation platform specializing in enterprise-grade web3 DevOps. It offers a no-code, easy-to-use interface for deploying, managing, and scaling blockchain nodes and networks. With robust support for various blockchain protocols like Polygon CDK, OP Stack, Arbitrum, zkSync, Polkadot Parachains, Avalanche L1, and Hyperledger Besu, Zeeve simplifies node deployment and monitoring across public, permissioned, and consortium networks. 
 
 The platform features advanced security, scalability, and 24/7 monitoring, catering to enterprises, developers, and blockchain startups. Trusted by over 30,000 developers, Zeeve ensures reliable, compliant, and high-performance blockchain infrastructure solutions for businesses looking to accelerate their web3 projects.

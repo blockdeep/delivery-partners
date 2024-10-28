@@ -7,7 +7,7 @@ title: OnFinality
 **Team Location: Singapore**
 **Website: https://onfinality.io/**
 
-**Overview:** 
+**Summary:** 
 OnFinality is a blockchain infrastructure platform that provides robust, scalable solutions for developers and enterprises. Specializing in multi-chain environments, it offers a comprehensive suite of services, including managed node infrastructure, API access, and blockchain deployment tools. OnFinality simplifies the process of building and maintaining blockchain networks by providing easy-to-use tools that enhance scalability, performance, and reliability.
 
 Its platform is particularly known for supporting Polkadot and Kusama ecosystems, allowing users to access dedicated nodes, perform staking, and launch blockchain networks quickly. OnFinality caters to both developers looking to streamline the development process and organizations needing secure, high-performance blockchain infrastructure.
@@ -30,7 +30,7 @@ https://blog.onfinality.io/zenchain-station/
 **Team Location:** Singapore
 **Website:** https://subquery.network/
 
-**Overview:** 
+**Summary:** 
 SubQuery Network is innovating web3 infrastructure with tools that empower builders to decentralise the future - without compromise. 
 
 The SubQuery Data Indexer is an open-source data indexer that provides you with custom APIs for your web3 project across all of our supported chains.

@@ -2,7 +2,7 @@
 **Team Location:** USA <br />
 **Website:** https://radiumblock.com/ 
 
-**Overview:**
+**Summary:**
 RadiumBlock is an enterprise-level infrastructure provider specializing in node services and endpoint management for Proof-of-Stake (PoS) blockchains. With over 20 years of experience in infrastructure management, RadiumBlock supports seamless blockchain integration through dedicated nodes, RPC endpoints, and validator services. Hosting nodes across six continents they ensure high availability, fault tolerance, and secure server management. Their platform is user-friendly, allowing businesses to deploy nodes with minimal technical expertise. RadiumBlock offers tailored solutions for institutions, featuring 24/7 support, custom service-level agreements, and enterprise-grade infrastructure.
 
 **Services:**

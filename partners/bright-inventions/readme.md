@@ -2,7 +2,7 @@
 **Team Location:** Poland <br />
 **Website:** https://brightinventions.pl/ 
 
-**Overview:**
+**Summary:**
 Bright Inventions is a development company and systems integrator capable of delivering full stack integrations to blockchain solutions. They have experience working with blockchain technologies for a number of years and possess the capabilities to build web2 solutions to integrate your blockchain with enterprise-grade backend systems.
 
 **Services:** 

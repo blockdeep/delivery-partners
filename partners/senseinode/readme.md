@@ -2,7 +2,7 @@
 **Team Location:** Argentina <br />
 **Website:** https://www.senseinode.com/ 
 
-**Overview:**
+**Summary:**
 SenseiNode is the top Node Operator in Latin America, managing over 9500 validators and a TVL exceeding 1.2 billion USD. SenseiNode's focus is to decentralize blockchains by using local data centers across Latam, thereby reducing dependency on cloud services. We also help our partners with community building in Latin America, helping them raise awareness and adoption.
 
 **Services:** 
