@@ -2,7 +2,7 @@
 **Team Location:** Poland <br />
 **Website:** https://10clouds.com/ 
 
-**Overview:** 
+**Summary:** 
 10Clouds is a leading digital product development company offering services in web and mobile development, (re)branding, product design, blockchain solutions, and AI/ML integration. Since 2009, they have collaborated with over 500 global clients, ranging from startups to large enterprises. 
 
 Their expertise lies in creating high-quality applications, focusing on user experience, security, and scalable solutions. They have been recognized in global rankings, including Deloitte's Fast 50 and are trusted partners for industries such as finance, blockchain, and healthcare. 10Clouds takes a client-centric approach, emphasizing transparency and agility in delivering digital products.
