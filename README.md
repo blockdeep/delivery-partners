@@ -33,6 +33,9 @@ Partners in this category provide the necessary infrastructure for running and m
 
 These three categories of delivery partners offer a comprehensive approach to building a blockchain solution on Polkadot, covering everything from the backend runtime development to the frontend experience, and ensuring your infrastructure is reliable and secure.
 
+### How this Directory is Structured
+This directory is structured as a repository with the following layout. In the root we have a parent directory readme which you are currently viewing. There is also a sub-directory for each partner, with profiles listed and collateral. Each profile takes the form of a readme file, and a pdf of relevant bd collatoral is also available within each sub-directory.
+
 ### How to Use the Directory
 This directory is designed to make it easy for you to identify and connect with engineering teams that match your specific needs.
 1. **Browse Profiles:** Review the profiles of each partner to learn about their background and expertise.
