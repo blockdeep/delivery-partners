@@ -12,9 +12,9 @@ Poland
 
 ## Summary
 
-We are a specialized blockchain development company focusing on full-stack solutions with particular expertise in Rust-based smart contracts and complex Web3 architectures. Born from successful hackathon experiences, we've evolved into a professional development studio known for rapid delivery of high-quality blockchain products.
+23stud.io is a specialized blockchain development studio focusing on full-stack solutions with particular expertise in Rust-based smart contracts and complex Web3 architectures. Born from successful hackathon experiences, they've evolved into a professional development studio known for rapid delivery of high-quality blockchain products.
 
-Our core strength lies in transforming complex blockchain concepts into user-friendly applications, with a proven track record of delivering production-ready solutions in record time. Working both with established projects and creating products from scratch, we excel at rapid development while maintaining high quality and security standards. With our hackathon background and deep technical expertise, we've become a trusted partner for both end-to-end product development and team extension scenarios.
+Their core strength lies in transforming complex blockchain concepts into user-friendly applications, with a proven track record of delivering production-ready solutions in record time. Working both with established projects and creating products from scratch, they excel at rapid development while maintaining high quality and security standards. With their hackathon background and deep technical expertise, they've become a trusted partner for both end-to-end product development and team extension scenarios.
 
 ## Services Provided
 
