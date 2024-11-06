@@ -4,7 +4,7 @@
 
 ### Website
 
-https://23stud.io/ 
+[https://23stud.io/](https://23stud.io)
 
 ### Location
 
@@ -32,9 +32,7 @@ Rust blockchain development, Web3 infrastructure, smart contract engineering (Ru
 
 ## Project Showcases
 
-* End-to-end development of ascan.alephzero.org - Comprehensive token indexing platform handling PSP22 standard tokens
-* End-to-end development of gov.alephzero.org - Advanced DAO governance platform enabling secure, transparent decision-making
-* End-to-end development of darksidesuits.com - Leading coin flip gaming platform on Aleph Zero's EVM chain
-* End-to-end development of app.syncra.xyz - Innovative DAO modular management platform
-
-End-to-end means frontend, backend, testing, smart contracts, infrastructure, product management.
+* End-to-end development of [ascan.alephzero.org](https://ascan.alephzero.org) - Comprehensive token indexing platform handling PSP22 standard tokens
+* End-to-end development of [gov.alephzero.org](https://gov.alephzero.org) - Advanced DAO governance platform enabling secure, transparent decision-making
+* End-to-end development of [darksidesuits.com](https://darksidesuits.com) - Leading coin flip gaming platform on Aleph Zero's EVM chain
+* End-to-end development of [app.syncra.xyz](https://app.syncra.xyz) - Innovative DAO modular management platform
