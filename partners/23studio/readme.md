@@ -28,7 +28,7 @@ Our core strength lies in transforming complex blockchain concepts into user-fri
 
 ## Areas of Expertise
 
-Rust blockchain development, Web3 infrastructure, smart contract engineering (Rust/EVM), decentralized applications (dApps), DeFi protocols & systems, DAO platforms & governance, token & staking solutions, blockchain gaming infrastructure, asset management systems, crypto platforms development, indexing solutions, performance optimization, rapid PoC development, technical blockchain consulting, end-to-end Web3 development, team extension & augmentation.
+Blockchain development, Web3 infrastructure, Web3 integrations, smart contract engineering (Rust/EVM), decentralized applications (dApps), DeFi protocols & systems, DAO platforms & governance, token & staking solutions, blockchain gaming infrastructure, asset management systems, crypto platforms development, indexing solutions, rapid PoC development, technical blockchain consulting, end-to-end Web3 development, team extension & augmentation.
 
 ## Project Showcases
 
