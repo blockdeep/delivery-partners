@@ -4,7 +4,7 @@
 
 ### Website
 
-[https://23stud.io/](https://23stud.io)
+[23stud.io](https://23stud.io)
 
 ### Location
 
