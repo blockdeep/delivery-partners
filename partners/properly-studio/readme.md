@@ -27,7 +27,13 @@ Boutique studio specializing in brand and product design for blockchain and fint
 
 ## Areas of Expertise
 
-DeFi, exchanges & wallets, payments, DAOs, AI x web3, staking, lending protocols, RWA, token launch pages & launch pads, (nft) marketplaces, CBDC, private & public blockchain development, mini-app development (frames, telegram), token & NFT creation, landing pages.
+Web3 - DeFi, Lending, Exchanges, DAO's, Ramps, Farms, Wallets, NFT Collections, Staking, NFT Marketplaces
+
+Fintech - Digital Banking, Integrations, Investment, Lending, Finances, Cybersecurity, Payments, Mobile Apps
+
+Product Design - Workshops, Wireframes, Analysis, Prototyping, Research, UI Design, Testing, Design Systems, Audits
+
+Branding - Illustrations, Brandbooks, 3D Design, Logotypes, Motion Design, Strategy
 
 ## Project Showcases
 
